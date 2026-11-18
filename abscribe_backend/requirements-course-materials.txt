@@ -1,0 +1,5 @@
+# Install for Course Materials. boto3 supports direct S3 uploads; ijson is required for review.
+boto3>=1.35,<2
+
+# Required for bounded, streaming review indexing.
+ijson>=3.3,<4

@@ -1,0 +1,12 @@
+Need to test out basic authentication -- run some POST requests or something. Just a sanity check.
+Or write some unit tests -- which is probably the better option, but will take some time to figure out.
+But let's do this properly.
+
+
+I use this file to help me organise myself while implementing.
+
+Shibboleth different from OAuth -- figure out how to handle that
+
+https://flask-sso.readthedocs.io/en/latest/
+
+Read mohi's docs too since that one is out of date.

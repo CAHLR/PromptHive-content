@@ -1,0 +1,27 @@
+{
+  "source": "OATutor aws/aiAgentGeneration",
+  "copied": "2026-10-15",
+  "files": {
+    "document-context.mjs": "48dca7ce9084a6a066f3d126cafb4a2c3d8e3b09826f9bf2689cf41bc026c4c7",
+    "document-id-utils.mjs": "bca5c398756253844fc70d0467ede6efd53761d0a76d2a16b0ab086ec818714b",
+    "scripts/bda-client.mjs": "e5381018a29b95749c342ea9e6368a69a99d72d57e90a1949f7ebd62c48a7c72",
+    "scripts/compile-documents.mjs": "6975a924ffa4901f3456d23af34d9b08d0f02819d2cba0c087b5b1ddeae9ba23",
+    "scripts/course-materials-cli.mjs": "cdaecc89a40dc415620845e7acb1a928719bc0d6acc4e61147fdcfec5a590c7c",
+    "scripts/embed-documents.mjs": "d8eb48e7250c1a2b4b72f8a3bc93064294d0ff3076e4a4b89659b997fb3f4423",
+    "scripts/providers/bedrock-provider.mjs": "0e53fe8f4e90a2dc39e621d52b312eb8d19c16aa9851ce791d82293ee21c7ff2",
+    "scripts/providers/llm-provider.mjs": "3592562992bffd89beefeb5f03f1b5a149dbf385b8b4f572dc20cb463bc6702b",
+    "scripts/providers/openai-provider.mjs": "e3cc2bcfd1068c61b266ec38ea8ba21253f55b1a1c5088fece2f5b83446a3104",
+    "scripts/publication-baseline.mjs": "8bbc06a56e36afb59f1e6eff7c4e1026509ab9bb41aec791d8ebe7dc1e38dd8d",
+    "scripts/publication-cloud.mjs": "3a1be68489889c1cf7f7cced9bedc9407e01938b438d65b4915dd93804841f53",
+    "scripts/publication-recovery.mjs": "060ab87c9462d9f5c93f41dc20ed6376019bf74dd4686a1aa13b53e546af6e8b",
+    "scripts/publication-state.mjs": "153247ed7125f88c8ebbb840e21207245906f6f44b303f1ed59d814fd516d2cc",
+    "scripts/publish-docs.mjs": "ab07cf006d53384af5e19e48dd87a996e5cb1afd061d3afa23e5b978010d2415",
+    "scripts/publish-preflight.mjs": "a3af34a04b7b9bcde9eab641a35ba447bbd91af3719fcd5e77ff74e21a1cd5df",
+    "scripts/semantic-compiler.mjs": "54d8cfa027123669998b851d8f1a2e4129a6ace7efd83b5636d622bcd51d3793",
+    "scripts/test-course-materials-cli.mjs": "25d33aae9fca9800a5b143242ba148cbdf7e29a077dc12ee7594f8234834e67e",
+    "scripts/validate-compiled.mjs": "2afb2b4333df2c5274ef419d0b980552b4d542bb0e8c52e9d4ab41e2d4f65ad8"
+  },
+  "schemas": {
+    "learning-object.schema.json": "4208bed830d1b2c9ad79bd35221868e117d811c8f7e0f87717a3c620425f9313"
+  }
+}

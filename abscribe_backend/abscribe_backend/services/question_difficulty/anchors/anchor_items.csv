@@ -1,0 +1,21 @@
+item_id,stem,answer_key,answer_type,mc_choices
+ANCHOR_001,"Given m = 4, find the equation of the line in slope-intercept form passing through the point (2, 5).",y=4*x-3,algebra,
+ANCHOR_002,"Find the slope of a line that passes through the points (2, -1) and (-5, 3).",-4/7,numeric,
+ANCHOR_003,Solve the following equation. 2x + 1 = -9.,-5,numeric,
+ANCHOR_004,"State whether the two lines are parallel, perpendicular or neither: 3y = -4x + 3 and 3x - 4y = 8.",neither,mc,parallel|perpendicular|neither
+ANCHOR_005,"For the following exercises, state whether they are parallel, perpendicular or neither: x = 4 and y = -3.",perpendicular,mc,parallel|perpendicular|neither
+ANCHOR_006,"Write the equation of line parallel to 5x + 3y = 1 and passing through the point (3, 5).",y=-5/3*x+10,algebra,
+ANCHOR_007,Solve the rational equation: 2/(3x) = 1/4 - 1/(6x).,10/3,numeric,
+ANCHOR_008,Solve the following equation: 2x + 7 = 19.,6,numeric,
+ANCHOR_009,Identify the slope given the equation y = -3/4 x - 4.,-3/4,numeric,
+ANCHOR_010,"Find the slope of a line that passes through the points (-2, 6) and (1, 4).",-2/3,numeric,
+ANCHOR_011,"Find the equation of the line passing through the given points: (-5, 2) and (2, 2).",y=2,algebra,
+ANCHOR_012,"Find the equation of the line parallel to 5x = 7 + y and passing through the point (-1, -2).",y=5*x+3,algebra,
+ANCHOR_013,"Find the equation of the line perpendicular to 5x - 3y + 4 = 0 and passing through the point (-4, 1).",y=-3/5*x-7/5,algebra,
+ANCHOR_014,Solve the equation in one variable: -2(3x - 1) + x = 14 - x.,-3,numeric,
+ANCHOR_015,Solve the rational equation 7/(2x) - 5/(3x) = 22/3.,1/4,numeric,
+ANCHOR_016,Solve the following rational equations and state the excluded values. 3/(x-6) = 5/x.,"Excluded values: 6, 0 and x = 15",mc,"Excluded values: 6, 0 and x = 15|Excluded values: 6 and x = 15|Excluded values: 6, 0 and x = 3|Excluded values: 6 and x = 3"
+ANCHOR_017,Solve the equation in one variable. 4x - 3 = 5.,2,numeric,
+ANCHOR_018,Solve the following rational equation: 2/x - 3/2 = 7/(2x).,-1,numeric,
+ANCHOR_019,"For the following exercises, solve the equation for x. State all x-values that are excluded from the solution set. 1/x = 1/5 + 3/(2x).",Excluded value: 0 and x = -5/2,mc,Excluded value: 0 and x = -5/2|Excluded value: None and x = -5/2|Excluded value: 0 and x = -7/2|Excluded value: None and x = -7/2
+ANCHOR_020,"For the following exercises, solve the equation for x. State all x-values that are excluded from the solution set. 2 - 3/(x+4) = (x+2)/(x+4).",Excluded values: -4 and x = -3,mc,Excluded values: -4 and x = -3|Excluded values: 4 and x = -3|Excluded values: -4 and x = 1|Excluded values: 4 and x = 1

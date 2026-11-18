@@ -1,0 +1,73 @@
+node_modules/
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+
+# Ignore Node.js files and directories
+node_modules/
+build/
+.cache/
+yarn.lock
+*.log
+
+# Ignore Python files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+*.egg
+*.egg-info/
+dist/
+*.log
+*.pid
+*.sqlite
+
+# Ignore common editor files and directories
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+*.iml
+*.ipynb_checkpoints/
+
+# Question difficulty research / build scratch
+abscribe_backend/abscribe_backend/services/question_difficulty/anchors_*/
+abscribe_backend/abscribe_backend/services/question_difficulty/anchors/_*/
+abscribe_backend/abscribe_backend/services/question_difficulty/anchors/_build_items.csv
+abscribe_backend/abscribe_backend/services/question_difficulty/_human_corr_rasch/
+abscribe_backend/abscribe_backend/services/question_difficulty/_human_sanity*.csv
+abscribe_backend/abscribe_backend/services/question_difficulty/_measure_*/
+
+# Local diagnosis / research exports (not part of the app)
+difficulty_diagnosis_for_dhar/
+difficulty_diagnosis_for_dhar.zip
+
+# Local frontend env
+frontend/.env.local
+frontend/.env-dev
+
+# Local Google credential/token files (never commit real secrets)
+token.json
+abscribe_backend/token.json
+abscribe_backend/abscribe_backend/credentials.json
+service_account_file.json
+firebase_service_account.json
+credentials.json
+# (avoid a blanket *.json rule: it would also ignore package.json/manifest.json)
+
+# SSL/TLS keys and any env files (never commit secrets)
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
